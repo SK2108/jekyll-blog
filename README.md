@@ -24,6 +24,12 @@ bundle exec jekyll new blog
 bundle exec jekyll serve
 ```
 
+To add livereload use this command instead
+
+```markdown
+bundle exec jekyll serve -l
+```
+
 ## Helpful links
 
 - [Gems](https://jekyllrb.com/docs/ruby-101/#gems)
