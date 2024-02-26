@@ -33,3 +33,4 @@ bundle exec jekyll serve -l
 ## Helpful links
 
 - [Gems](https://jekyllrb.com/docs/ruby-101/#gems)
+- [Gem-based theme: Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
